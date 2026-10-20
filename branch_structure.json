@@ -1,0 +1,18 @@
+{
+  "default_branch": "contribution",
+  "branches": [
+    "contribution",
+    "feat/issue-767-150-pts-telegram-telegram-bot-interactive",
+    "origin"
+  ],
+  "parent": {
+    "contribution": null,
+    "feat/issue-767-150-pts-telegram-telegram-bot-interactive": "contribution",
+    "origin": "contribution"
+  },
+  "order": [
+    "contribution",
+    "feat/issue-767-150-pts-telegram-telegram-bot-interactive",
+    "origin"
+  ]
+}
